@@ -12,8 +12,12 @@ some good tools as a developer to use
 
 ## 抓包
 
+- [proxyman](https://proxyman.io/) 支持websocket, 推荐！！！
 - [Charles](https://www.charlesproxy.com/)
 - [whistle](https://github.com/avwo/whistle) Web 界面；方便请求断点
+
+## 截图&录屏
+- [ishot](https://apps.apple.com/cn/app/ishot-%E4%BC%98%E7%A7%80%E7%9A%84%E6%88%AA%E5%9B%BE%E5%BD%95%E5%B1%8F%E5%B7%A5%E5%85%B7/id1485844094?mt=12) 截图、长截图、标注、录制
 
 ## 浏览器
 
