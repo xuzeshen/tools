@@ -9,6 +9,7 @@ some good tools as a developer to use
 ## 命令行
 
 - [iTerm2](https://iterm2.com/)
+- [hyper](https://hyper.is/) 基于Electron开发的命令行工具，值的一试
 
 ## 抓包
 
