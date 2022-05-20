@@ -10,6 +10,7 @@ some good tools as a developer to use
 
 - [iTerm2](https://iterm2.com/)
 - [hyper](https://hyper.is/) 基于Electron开发的命令行工具，值的一试
+- [fig](https://fig.io/) 与命令行工具一起，更出色的实现自动补全
 
 ## 抓包
 
