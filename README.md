@@ -33,6 +33,7 @@ some good tools as a developer to use
 ## 文档记录
 
 - [语雀](https://www.yuque.com/)
+- [carbon](https://github.com/carbon-app/carbon) 写文档时，把代码快转成优美的图片
 
 ## 虚拟机
 
