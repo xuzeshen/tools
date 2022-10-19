@@ -43,3 +43,6 @@ some good tools as a developer to use
 
 - [octotree](https://github.com/ovity/octotree) github 文件树
 - [沙拉插词](https://chrome.google.com/webstore/detail/%E6%B2%99%E6%8B%89%E6%9F%A5%E8%AF%8D-%E8%81%9A%E5%90%88%E8%AF%8D%E5%85%B8%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/cdonnmffkdaoajfknoeeecmchibpmkmg) 超级好用的翻译，整合了多个平台的结果
+
+## 公网映射
+- [ngrok](https://ngrok.com/) localhost不能满足需求、或者远程办公在不同局域网下，开发者期待快速调试时候，将本地服务暴露在公网上
